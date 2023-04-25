@@ -17,7 +17,7 @@ function setup() {
 
   playerBase = new PlayerBase(300, random(450, height - 300), 180, 150);
 //create a player object from the Player class.
- player = new Player (290,325,50,180);
+ player = new Player (290,328,50,180);
 
   computerBase = new ComputerBase(
     width - 300,
